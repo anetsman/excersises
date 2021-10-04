@@ -1,5 +1,3 @@
-package com.sizmek.amber.verification;
-
 import java.util.List;
 
 public class Palindrome {
