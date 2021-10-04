@@ -1,5 +1,3 @@
-package com.sizmek.amber.verification;
-
 public class ClosestPalindrome {
 
     public static void main(String[] args) {
