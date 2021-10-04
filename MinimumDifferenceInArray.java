@@ -1,5 +1,3 @@
-package com.sizmek.amber.verification;
-
 import java.util.Arrays;
 
 public class MinimumDifferenceInArray {
