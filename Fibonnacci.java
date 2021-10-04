@@ -1,5 +1,3 @@
-package com.sizmek.amber.verification;
-
 public class Fibonnacci {
 
     private static int previous = 1;
